@@ -15,6 +15,7 @@ The work done so far for this problem statement :
 
 - Problem Statement link : https://vision.hack2skill.com/event/gcc-dev-premier-league-2025/dashboard/challenges?utm_source=hack2skill&utm_medium=homepage&utm_campaign=&utm_term=&utm_content=
 
-- Snowflake account link : https://app.snowflake.com/me-central2.gcp/ex77894/#/workspaces/ws/USER%24/PUBLIC/DEFAULT%24
+- Snowflake trail account link : https://app.snowflake.com/me-central2.gcp/ex77894/#/workspaces/ws/USER%24/PUBLIC/DEFAULT%24
+- Snowflake Dashboard link : https://app.snowflake.com/me-central2.gcp/ex77894/#/dev-premier-league-hackathon-analysis-dPGTDHVsn
 - Stock Dataset API key access : https://www.alphavantage.co/support/#api-key
 - News Dataset API key access : https://newsapi.org/account
